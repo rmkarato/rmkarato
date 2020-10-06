@@ -10,20 +10,20 @@
 </div>
 
 
-> Desenvolvedora Web Full Stack;
-> Moro em São Caetano do Sul/SP;
-> Fascinada pelo mundo da programação e tecnologia;
-> Apaixonada por artes e criação.
+- Desenvolvedora Web Full Stack;
+- Moro em São Caetano do Sul/SP;
+- Fascinada pelo mundo da programação e tecnologia;
+- Apaixonada por artes e criação.
 
 ## Techs
 
-> HTML & CSS;
-> JavaScript;
-> TypeScript;
-> ReactJS;
-> NodeJS;
-> SQL;
-> etc.
+- HTML & CSS;
+- JavaScript;
+- TypeScript;
+- ReactJS;
+- NodeJS;
+- SQL;
+- etc.
 
 ## Linguagens Mais Utilizadas
 
