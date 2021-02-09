@@ -9,10 +9,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rmkarato@gmail.com)](mailto:rmkarato@gmail.com)
 </div>
 
-- Graduated in architecture and software developer by choice;
-- Full Stack Web Developer, but loves front-end stack;
-- Fascinated by the world of programming and technology;
-- Passionate about arts and creationo.
+- 👩‍🎓 Graduated in architecture and software developer by choice; 
+- 👩‍💻 Full Stack Web Developer, but loves front-end stack;
+- 💻 Fascinated by the world of programming and technology;
+- ❤ Passionate about arts and creations.
 
 ## Techs
 
