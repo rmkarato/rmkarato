@@ -12,6 +12,7 @@
 - 👩‍🎓 Graduated in architecture and software developer by choice; 
 - 👩‍💻 Full Stack Web Developer, but loves front-end stack;
 - 💻 Fascinated by the world of programming and technology;
+- Some experience in design, UX/UI;
 - ❤ Passionate about arts and creations.
 
 ## Techs
