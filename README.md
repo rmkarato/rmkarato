@@ -1,5 +1,5 @@
 # Hello! 👋
-## I'm Renata :D
+## I'm Renata 🎏
 
 <div align="center">
   <a href="https://github.com/rmkarato?tab=repositories"><img src="https://i.ibb.co/SQQp5Nb/profile-github.png" alt="profile-github" border="0"></a>
@@ -16,7 +16,7 @@
 - ❤ Passionate about arts and creations;
 - 🤓 Working at <a href="https://www.cuponeria.com.br">Cuponeria</a>, a discount coupon startup, as a frontend developer.
 
-## Techs
+## Techs 🎇
 
 - HTML & CSS;
 - JavaScript;
@@ -26,7 +26,7 @@
 - SQL;
 - etc.
 
-## Most Used Languages
+## Most Used Languages 🎇
 
 <div align="center">
   
