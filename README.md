@@ -14,7 +14,7 @@
 - 💻 Fascinated by the world of programming and technology;
 - 🎨🖌 Some experience in design, UX/UI;
 - ❤ Passionate about arts and creations;
-- 🤓 Working at <a href="https://www.cuponeria.com.br">Cuponeria</a>, a discount coupon startup.
+- 🤓 Working at <a href="https://www.cuponeria.com.br">Cuponeria</a>, a discount coupon startup, as a frontend developer.
 
 ## Techs
 
