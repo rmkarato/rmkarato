@@ -18,7 +18,7 @@
 
 ## Techs 🎇
 
-- HTML & CSS;
+- HTML & CSS (& SASS);
 - JavaScript;
 - TypeScript;
 - ReactJS;
