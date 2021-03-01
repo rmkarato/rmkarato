@@ -22,6 +22,7 @@
 - JavaScript;
 - TypeScript;
 - ReactJS;
+- AngularJS;
 - NodeJS;
 - SQL;
 - etc.
