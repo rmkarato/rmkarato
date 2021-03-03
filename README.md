@@ -23,6 +23,7 @@
 - TypeScript;
 - ReactJS;
 - AngularJS;
+- NextJS;
 - NodeJS;
 - SQL;
 - etc.
