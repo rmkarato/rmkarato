@@ -22,6 +22,7 @@
 - JavaScript;
 - TypeScript;
 - ReactJS;
+- React Native;
 - AngularJS;
 - NextJS;
 - NodeJS;
