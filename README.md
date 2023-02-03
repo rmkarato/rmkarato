@@ -23,6 +23,7 @@
 - TypeScript;
 - ReactJS;
 - React Native;
+- Unit Tests;
 - AngularJS;
 - NextJS;
 - NodeJS;
