@@ -13,7 +13,6 @@
 - 💻 Fascinated by the world of programming and technology;
 - 🎨🖌 Some experience in design, UX/UI;
 - ❤ Passionate about arts and creations;
-- 🤓 My last work experience was as a mobile developer (React Native).
 
 ## Techs 🎇
 
